@@ -1,0 +1,57 @@
+{
+  "slug": "devi-events-and-trading-co-thrissur",
+  "name": "Devi Events & Trading Co.",
+  "shortName": "Devi Events & Trading",
+  "descriptor": "Catering & Events",
+  "address": "Karshaka Nagar, Ayyanthole, Thrissur, Keralam 680003",
+  "area": "Ayyanthole",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680003",
+  "geo": {
+    "lat": 10.527075,
+    "lng": 76.187112
+  },
+  "mapsLink": "https://maps.google.com/?cid=3314028761657857531",
+  "phone": "+91 97451 91999",
+  "whatsapp": "919745191999",
+  "hours": "Open 8:01 am – 8 pm · all days",
+  "opens": "08:01",
+  "closes": "20:00",
+  "rating": 4.2,
+  "reviewCount": 25,
+  "reviews": [
+    {
+      "name": "Arun Kumar T",
+      "rating": 5,
+      "quote": "They are the best in Stage Decorations Event Management and Interior Designing. The interior of Kannur Airport and New International Terminal at Cochin Airport are done by them."
+    },
+    {
+      "name": "Shijo John Valappila",
+      "rating": 4,
+      "quote": "One of the best event management team in the city. If you are looking for a theme based event,this team will be the best option.they are very creative in their work.good customer relationship..prompt service"
+    },
+    {
+      "name": "Sijith A R",
+      "rating": 5,
+      "quote": "Owner is very friendly. Had a very good experience with them for my son's birthday stage decor."
+    },
+    {
+      "name": "Felix Akkara",
+      "rating": 5,
+      "quote": "Very helpful Subash n brother. U name it n u get it. Awesome work done"
+    },
+    {
+      "name": "Sathish velur",
+      "rating": 4,
+      "quote": "Very good experienced guys, punctuated and budget friendly"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://devi-events-and-trading-co-thrissur.vercel.app"
+}
